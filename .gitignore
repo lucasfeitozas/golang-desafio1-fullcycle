@@ -11,3 +11,4 @@
 # Ignorar arquivos de configuração do sistema operacional
 .DS_Store
 Thumbs.db
+*.txt
