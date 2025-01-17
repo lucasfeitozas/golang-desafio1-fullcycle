@@ -1,0 +1,13 @@
+# Ignorar arquivos de banco de dados
+*.db
+
+# Ignorar diretórios bin e obj
+/bin/
+/obj/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
